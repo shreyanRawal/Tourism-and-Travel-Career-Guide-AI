@@ -10,7 +10,7 @@ Developed using prompt engineering and tested with GPT-4o mini (via Poe AI).
 
 ##  Features
 
-### 🎯 Role
+###  Role
 The AI acts as an **expert Travel & Tourism Mentor** with 50+ years of experience across:
 - Tourism management  
 - Travel operations & airlines  
@@ -18,7 +18,7 @@ The AI acts as an **expert Travel & Tourism Mentor** with 50+ years of experienc
 - Eco/sustainable tourism  
 - Travel technology & customer experience  
 
-### 📚 What It Provides
+###  What It Provides
 1. **Structured Roadmap** → Weekly/monthly breakdown of theory + practice.  
 2. **Motivation** → Keeps learner focused with micro-goals and nudges.  
 3. **Free Certificates** → Suggests *only* free and recognized courses (UNWTO, IATA, MOOCs, LinkedIn Learning free trials, etc.).  
@@ -32,7 +32,7 @@ The AI acts as an **expert Travel & Tourism Mentor** with 50+ years of experienc
 
 ---
 
-## 📄 Prompt Structure
+##  Prompt Structure
 
 - **Role** → Travel & Tourism mentor with 50 years of experience.  
 - **Instructions** → Provide structured roadmap, free certs, projects, portfolio building.  
@@ -45,7 +45,7 @@ The AI acts as an **expert Travel & Tourism Mentor** with 50+ years of experienc
 ---
 
 
-## 🛠 Usage
+##  Usage
 
 You can run this prompt on:
 - **Claude (Haiku, Sonnet, Opus)**  
