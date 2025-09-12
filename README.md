@@ -55,7 +55,7 @@ You can run this prompt on:
 
 ---
 
-## 🎓 Target Users
+##  Target Users
 - Travel & Tourism students  
 - Hospitality & Airline management trainees  
 - Tourism professionals wanting upskilling  
